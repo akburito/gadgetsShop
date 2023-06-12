@@ -1,0 +1,46 @@
+.special {
+  background-color: #2E3C85;
+  margin-bottom: 96px;
+  height: 264px;
+}
+.special .container {
+  max-width: 1212px;
+  margin: 0 auto;
+}
+.special .specialTitle {
+  font-weight: 600;
+  color: #fff;
+  font-size: 28px;
+  line-height: 38px;
+  margin-top: 19px;
+}
+.special .specialList {
+  display: flex;
+  gap: 0 20px;
+  margin: 20px 0 37px 0;
+}
+.special .specialList .specialItem {
+  background-color: #F9FC62;
+  min-width: 340px;
+  height: 150px;
+  border-radius: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+.special .specialList .specialItem .specialItemTitle {
+  color: #417716;
+  margin: 12px 0 0 12px;
+  font-size: 26px;
+  line-height: 30px;
+  font-family: "Roboto", sans-serif;
+}
+.special .specialList .specialItem .specialItemIllustr {
+  display: flex;
+  align-items: flex-end;
+  margin-right: 7.5px;
+}
+.special .specialList .specialItem .specialItemIllustr > span {
+  font-size: 56px;
+  line-height: 67px;
+  color: #20520E;
+}/*# sourceMappingURL=Special.module.css.map */

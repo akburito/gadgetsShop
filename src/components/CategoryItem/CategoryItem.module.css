@@ -1,0 +1,21 @@
+.popularCatgItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.popularCatgItem > p {
+  margin-top: 10px;
+}
+.popularCatgItem > img {
+  width: 140px;
+  height: 103px;
+}
+.popularCatgItem:hover {
+  color: #0AF;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+.popularCatgItem + .popularCatgItem {
+  margin-left: 30px;
+}/*# sourceMappingURL=CategoryItem.module.css.map */

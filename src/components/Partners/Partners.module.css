@@ -1,0 +1,20 @@
+.partners {
+  margin: 75px 0 155px 0;
+}
+.partners .container {
+  max-width: 1212px;
+  margin: 0 auto;
+}
+.partners .partnersTitle {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 38px;
+  margin-bottom: 81px;
+}
+.partners .partnersList {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 84px 105px;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=Partners.module.css.map */
